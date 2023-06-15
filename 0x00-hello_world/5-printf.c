@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(void0)
+int main(void)
 /**
 * main - Entry point
 *
