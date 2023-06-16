@@ -3,11 +3,12 @@
 #include <time.h>
 /**
  * more headers goes there
- * main description - number to the variable in each time it is executed
+ * main - description - number to the variable in each time it is executed
  *
+ * Description: this fun generate if is last disit
  * betty style doc for function main goes there
  * return always 0 Return success
-*/
+ */
 int main(void)
 {
 	int n;
