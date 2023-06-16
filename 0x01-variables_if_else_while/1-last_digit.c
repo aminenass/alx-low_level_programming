@@ -3,8 +3,8 @@
 #include <time.h>
 /**
  * more headers goes there
- * main  random number to the variable n each time it is executed 
- * betty style doc for function main goes there 
+ * main random number to the variable in each time it is executed 
+ * betty style doc for function main goes there²
 */
 int main(void)
 {
