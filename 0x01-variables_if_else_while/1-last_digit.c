@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* more headers goes there*/ 
-/* main  random number to the variable n each time it is executed */
-/* betty style doc for function main goes there */
+/**
+ * more headers goes there
+ * main  random number to the variable n each time it is executed 
+ * betty style doc for function main goes there 
+*/
 int main(void)
 {
 	int n;
