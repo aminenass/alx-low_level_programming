@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main print alphapet except q&e
+ * main - Prints the alphabet excluding 'q' and 'e'.
  *
- * return always success 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -15,7 +15,7 @@ int main(void)
 			putchar(letter);
 		}
 		letter++;
-	}	
+	}
 	putchar('\n');
 	return (0);
 }
