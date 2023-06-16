@@ -3,8 +3,9 @@
 #include <time.h>
 /**
  * more headers goes there
- * main random number to the variable in each time it is executed
- * betty style doc for function main goes there²
+ * main - random number to the variable in each time it is executed
+ * betty style doc for function main goes there
+ * return always 0 success
 */
 int main(void)
 {
