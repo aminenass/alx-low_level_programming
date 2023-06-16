@@ -1,13 +1,13 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+
 /**
- * more headers goes there
- * main - description - number to the variable in each time it is executed
+ * main - Entry point of the program
  *
- * Description: this fun generate if is last disit
- * betty style doc for function main goes there
- * return always 0 Return success
+ * Description: This function generates a random number and prints its last digit.
+ *
+ * Return: 0 on success
  */
 int main(void)
 {
