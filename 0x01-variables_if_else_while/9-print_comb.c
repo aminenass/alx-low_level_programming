@@ -12,11 +12,12 @@ int main(void)
         {
 		if (number != 9)
 		{
-			putchar("%d, ", number);
+			putchar(number);
+			putchar(", ");
 		}
 		else
 		{
-			putchar("%d", number);
+			putchar(number);
 		}
         }
         putchar('\n');
