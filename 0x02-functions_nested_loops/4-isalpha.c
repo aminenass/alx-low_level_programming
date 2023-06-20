@@ -1,4 +1,4 @@
-#inculde "main.h"
+#include "main.h"
 /**
 * _isalpha - This is a func that check if alphabet
 * @c: the parameter which represent the chari
