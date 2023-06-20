@@ -1,8 +1,8 @@
 #include "main.h"
-/*
- * main function putchar
- *writing by calling fun
- * Return 0 always success
+/**
+ * main - function putchar
+ * writing by calling fun
+ * Return : 0 always success
  */
 int main(void)
 {
