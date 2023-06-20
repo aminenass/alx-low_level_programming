@@ -1,6 +1,7 @@
 #include "main.h"
-/* jack_bauer - this a function print evert minute of day
- * 
+/**
+ *jack_bauer - this a function print evert minute of day
+ *
  * Return: every minute=b and hour = a
  */
 void jack_bauer(void)
