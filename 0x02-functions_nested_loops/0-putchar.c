@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - function putchar
- * writing by calling fun
- * Returns main : 0 always success
+ * main - Prints putchar underscore from func .
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
