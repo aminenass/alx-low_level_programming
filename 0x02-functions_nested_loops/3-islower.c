@@ -2,14 +2,16 @@
 /**
 * _islower - This code check if lower case or not
 * if lower is 1 else 0.
+* int c - represent the alpha to check
+* Return : 0 always success
 */
 int _islower(int c)
 {
-	if ( 'a'<= c && c <= 'z')
+	if ('a' <= c && c <= 'z')
 	{
 		return (1);
 	}
-	else 
+	else
 	{
 		return (0);
 	}
