@@ -1,5 +1,6 @@
 #include "main.h"
-/* main function putchar
+/*
+ * main function putchar
  *writing by calling fun
  * Return 0 always success
  */
