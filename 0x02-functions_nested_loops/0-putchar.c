@@ -2,7 +2,7 @@
 /**
  * main - function putchar
  * writing by calling fun
- * Returns: 0 always success
+ * Returns main : 0 always success
  */
 int main(void)
 {
