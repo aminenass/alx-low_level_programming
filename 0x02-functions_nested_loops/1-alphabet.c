@@ -1,7 +1,6 @@
 #include "main.h"
 /**
- * main - print_alphabet from func .
- * Description:  A lower case alphabet is printed,
+ * print_alphabet - print_alphabet from func .
  * Return: Always 0 (Success)
  * This function prints all the lowercase alphabets from 'a' to 'z'.
  */
