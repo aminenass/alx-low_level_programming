@@ -1,7 +1,7 @@
 #include "main.h"
 /* main function putchar
- *
- * return 0 always success
+ *writing by calling fun
+ * Return 0 always success
  */
 int main(void)
 {
