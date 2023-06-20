@@ -1,5 +1,5 @@
 #include "main.h"
-/* main function putchar 
+/* main function putchar
  *
  * return 0 always success
  */
