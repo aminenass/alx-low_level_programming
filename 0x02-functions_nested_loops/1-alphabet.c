@@ -4,7 +4,7 @@
  *
  * Return: Always 0 (Success)
  */
-int prialpha(void)
+int print_alphabet(void)
 {
 	char alpha = 'a';
 
