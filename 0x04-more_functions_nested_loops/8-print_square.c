@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_square - this function print square
- * @size: repris parameter
- */
+* print_square - this function print square
+* @size: repris parameter
+*/
 void print_square(int size)
 {
 	if (size <= 0)
@@ -11,10 +11,11 @@ void print_square(int size)
 		}
 	else
 		{
-			int a, b;
+			int a;
 
 			for (a = 0; a < size; a++)
 			{
+				int b;
 				for (b = 0; b < size; b++)
 				{
 					_putchar('#');
