@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * _isdigit - this check diit 0 through 9
  * @c: parameter digit
