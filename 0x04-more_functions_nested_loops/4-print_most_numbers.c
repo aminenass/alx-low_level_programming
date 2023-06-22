@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_most_numbers(void) - function print number except
+ * print_most_number - function print number except
  * Return: return number except 4 2
  */
 void print_most_numbers(void)
@@ -15,5 +15,3 @@ void print_most_numbers(void)
 	}
 	_putchar('\n');
 }
-
-
