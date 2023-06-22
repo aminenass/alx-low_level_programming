@@ -2,7 +2,6 @@
 /**
  * print_square - this function print square
  * @size: repris parameter
- * Return: return square
  */
 void print_square(int size)
 {
