@@ -4,7 +4,9 @@
  * @n: parameter of how many time
  * Return: return the diagonal
  */
-if (n <= 0)
+void print_diagonal(int n)
+{
+	if (n <= 0)
 	{
 		_putchar('\n');
 	}
