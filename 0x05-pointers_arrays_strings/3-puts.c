@@ -5,7 +5,8 @@
  */
 void _puts(char *str)
 {
-	while (*str != '/0')
+	empty = '\0';
+	while (*str != empty)
 	{
 		_putchar(*str++);
 	}
