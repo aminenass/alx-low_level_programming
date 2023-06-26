@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * print_array - this function  print element in array followed by line
  * @a: the first parameter the numb in
