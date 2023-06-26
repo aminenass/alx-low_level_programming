@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * swap_int - swap int 
+ * swap_int - swap int
  * @a: first numb
  * @b: second numb
  * Return: always success
