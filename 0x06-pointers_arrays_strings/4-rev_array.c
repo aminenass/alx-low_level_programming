@@ -3,7 +3,7 @@
  * reverse_array - this function reverse the numb
  * @a: number in arr
  * @n: number of element in array
- * Return: always success and reverse the 
+ * Return: always success and reverse the
  */
 void reverse_array(int *a, int n)
 {
