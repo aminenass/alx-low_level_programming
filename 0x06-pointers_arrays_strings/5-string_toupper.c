@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * string_toupper - this function 
+ * string_toupper - this function
  * @z: is the parameter
  * Return: always sucess
  */
