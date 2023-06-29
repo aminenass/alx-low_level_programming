@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * __strncpy - third function 
+ * _strncpy - third function 
  * @dest: first input
  * @src: second input
  * @n: third input
