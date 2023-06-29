@@ -3,6 +3,7 @@
  * _strcat - this function conc two string
  * @dest: first input
  * @src: second valude
+ * Return: always success
  */
 char *_strcat(char *dest, char *src)
 {
