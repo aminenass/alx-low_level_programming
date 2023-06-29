@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * char_strcat - this function conc two string
+ * _strcat - this function conc two string
  * @dest: first input
  * @src: second valude
  */
